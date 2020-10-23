@@ -24,4 +24,4 @@ An old project from 2006 - I got nostalgic again.
 >b. Easy distribution of files from a local host to multiple FTP servers.<br>
 >c. Easy distribution of files from one FTP server to many using FXP.
 
-Rea the original [ReadMe.html](https://eldare.github.io/bwFXPbot)
+Read the original [ReadMe.html](https://eldare.github.io/bwFXPbot)
